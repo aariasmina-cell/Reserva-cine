@@ -1,5 +1,5 @@
 # Reserva de Asientos de Cine 3x4
-*Autor:* Jesús José Arias Mina  
+*Autor:* Jesús Alberto Arias Mina  
 *Universidad Estatal Amazónica - Programación*
 
 ### Objetivo del programa
